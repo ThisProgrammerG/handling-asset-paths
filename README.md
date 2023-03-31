@@ -1,6 +1,6 @@
 # handling-asset-paths
 Example of handling asset paths
-```
+``` python
 from pathlib import Path
 
 
